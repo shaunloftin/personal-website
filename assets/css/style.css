@@ -11,7 +11,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #FFF;
-    background: #26262B;
+  background: #26262B;
 }
 
 a {
@@ -30,7 +30,8 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-body{ margin:0; } canvas{ display: block; vertical-align: bottom; } 
+/* body{ margin:0; } canvas{ display: block; vertical-align: bottom; } */
+body{ margin:0; } canvas{ display: block; } 
 #particles-js{ position:absolute; width: 100%; height: 100%; background-color: #ffffff; background-image: url(""); background-repeat: no-repeat; background-size: cover; background-position: 50% 50%; }
 
 /*--------------------------------------------------------------
@@ -304,9 +305,10 @@ body{ margin:0; } canvas{ display: block; vertical-align: bottom; }
   transition: 0.3s;
 }
 
+/*
 #hero .social-links a:hover {
-  /* color: #3A49CA; */
-}
+  color: #3A49CA;
+} */
 
 @media (max-width: 992px) {
   #hero {
@@ -704,7 +706,7 @@ background: #26262B;
 
 .services .icon-box {
   text-align: center;
-  padding: 70px 20px 80px 20px;
+  padding: 40px 20px 50px 20px;
   transition: all ease-in-out 0.3s;
   background: #fff;
   box-shadow: 0px 5px 90px 0px rgba(110, 123, 131, 0.05);
