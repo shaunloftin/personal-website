@@ -504,7 +504,7 @@ background: #26262B;
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #3A49CA;
+  /* color: #3A49CA; - use to add color to resume header */
   margin-bottom: 10px;
 }
 
