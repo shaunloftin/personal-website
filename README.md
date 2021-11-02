@@ -2,7 +2,7 @@
 
 personal-website is the GitHub repository for [shaunloftin.com](http://shaunloftin.com).
 
-This site is adapted from a [Bootstrap 4 template](https://bootstrapmade.com/free-html-bootstrap-template-my-resume/) with lots of HTML, CSS, SCSS, and JS additions. 
+This site is adapted from a [Bootstrap 4 template](https://bootstrapmade.com/free-html-bootstrap-template-my-resume/) with lots of personal HTML, CSS, SCSS, and JS additions. 
 
 ## Directory
 ```bash
