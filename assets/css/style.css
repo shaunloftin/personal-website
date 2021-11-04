@@ -1066,3 +1066,23 @@ text-decoration: none;
 #footer .social-links .behance {
     background:#1769ff;
 }
+
+
+/*--------------------------------------------------------------
+# 404 Page-Specific CSS
+--------------------------------------------------------------*/
+#error-content {
+  z-index:99;
+  margin-left:50px;
+  top:30%;
+  position: absolute;
+}
+
+#error-content h2 {
+  font-size: 5em;
+}
+
+#error-content a {
+  color:white;
+}
+
