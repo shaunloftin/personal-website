@@ -894,6 +894,14 @@ text-decoration: none;
   padding: 40px 0;
 }
 
+/* custom addition to resize image despite file size */
+.portfolio-details img {
+  max-height:250px;
+  width:auto !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .portfolio-details .portfolio-title {
   font-size: 26px;
   font-weight: 700;
