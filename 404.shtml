@@ -1,0 +1,68 @@
+<!-- =======================================================
+* Personal Website
+* shaunloftin.com
+* Author: Shaun Loftin
+* Last Updated: November 1st, 2021
+======================================================== -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Shaun Loftin</title>
+  <meta content="Computer science student exploring intersection of technology and design." name="description">
+  <meta content="shaun loftin, shaun, loftin" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+
+  <!-- ======= Error Section ======= -->
+  <section id="error" class="d-flex flex-column justify-content-center">
+    <div id="particles-js"></div>
+
+    <!-- Particles animation for landing area -->
+    <script src="assets/js/particles.js"></script>
+    <script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <!-- End particles animation -->
+
+    <div id="error-content">
+        <h2>404 Error</h2>
+        <p>Did you incorrectly find this page? <a href="mailto:loftin.12@osu.edu">Click here to let me know.</a></p>
+        <a href="index.html">Click here to return to shaunloftin.com.</a>
+    </div>
+      
+  </section><!-- End Error -->
+
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/js/particles.js"></script>
+  <script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
