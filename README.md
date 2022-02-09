@@ -1,3 +1,6 @@
+![Banner](assets/img/portfolio/covers/personal-website-cover.PNG)
+
+
 # shaunloftin.com
 personal-website is the GitHub repository for my personal website: [shaunloftin.com](http://shaunloftin.com).
 
