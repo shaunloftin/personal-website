@@ -130,9 +130,9 @@ body{ margin:0; } canvas{ display: block; }
   bottom: 0;
   z-index: 9997;
   transition: all 0.5s;
-  padding: 15px;
+  padding: 15px 15px 15px 35px;
   overflow-y: auto;
-    background: #26262B;
+  background: #26262B;
 }
 
 .nav-menu span {
